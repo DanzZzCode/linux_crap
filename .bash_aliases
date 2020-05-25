@@ -1,0 +1,5 @@
+alias ll='ls -la'
+alias ports='netstat -tulanp'
+alias lsn='nc -lnvp 9999'
+alias map='nmap -sC -sV -oN'
+alias gobust='gobuster dir -w /usr/share/dirbuster/wordlists/directory-list-2.3-medium.txt -u'
